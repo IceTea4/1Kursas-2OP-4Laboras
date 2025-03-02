@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "U4H_24_Pasikartojantys_zdz/1.0.0": {
+        "runtime": {
+          "U4H_24_Pasikartojantys_zdz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "U4H_24_Pasikartojantys_zdz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{88434C36-4B2C-43D2-B9AA-09754672E53E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Knyga.txt">
+    <Files>
+      <File FileName="Program.cs" Line="40" Column="50" />
+      <File FileName="InOut.cs" Line="226" Column="29" />
+      <File FileName="TaskUtils.cs" Line="191" Column="26" />
+      <File FileName="Word.cs" Line="18" Column="28" />
+      <File FileName="Knyga.txt" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="U4H_24_Pasikartojantys_zdz" expanded="True">
+            <Node name="U4H_24_Pasikartojantys_zdz" expanded="True">
+              <Node name="Knyga.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.U4H__24__Pasikartojantys__zdz PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

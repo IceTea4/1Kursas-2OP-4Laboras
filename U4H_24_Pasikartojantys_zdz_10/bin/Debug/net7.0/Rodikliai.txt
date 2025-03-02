@@ -1,0 +1,9 @@
+Dazniausiai pasikartojantys zodziai: 
+bb 8
+aa 5
+cc 1
+laba 1
+xxxxx 1
+Ilgiausias sakinys:
+Bb bb bb bb cc aa bb bb xxxxx aa!
+Zodziai: 10; Simboliai: 33; Sakinio pradzia: 1
